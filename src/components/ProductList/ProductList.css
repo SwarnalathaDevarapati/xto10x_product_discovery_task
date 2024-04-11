@@ -1,0 +1,30 @@
+.product-list{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    margin-bottom: 20px;
+}
+
+.product-image{
+    max-height: 150px;
+    max-width: 150px;
+}
+
+.product-card-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+
+}
+
+.product-card{
+    height: 300px;
+    width: 240px;
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(243, 240, 237);
+}
+
+.description{
+    font-size: 12px;
+}
