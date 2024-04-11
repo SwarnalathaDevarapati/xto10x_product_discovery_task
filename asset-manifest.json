@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xto10x_product_discovery_task.git/static/css/main.c2d1b243.css",
+    "main.js": "/xto10x_product_discovery_task.git/static/js/main.9eecbfad.js",
+    "static/js/453.9836829a.chunk.js": "/xto10x_product_discovery_task.git/static/js/453.9836829a.chunk.js",
+    "index.html": "/xto10x_product_discovery_task.git/index.html",
+    "main.c2d1b243.css.map": "/xto10x_product_discovery_task.git/static/css/main.c2d1b243.css.map",
+    "main.9eecbfad.js.map": "/xto10x_product_discovery_task.git/static/js/main.9eecbfad.js.map",
+    "453.9836829a.chunk.js.map": "/xto10x_product_discovery_task.git/static/js/453.9836829a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2d1b243.css",
+    "static/js/main.9eecbfad.js"
+  ]
+}
